@@ -4,4 +4,8 @@ This is a simple readme file
 
 ## Heading 2
 
-i hope this is not much of a problem
+some changes for stashing and change again
+
+updates in stage
+
+more updates in working directory
